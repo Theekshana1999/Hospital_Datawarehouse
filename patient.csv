@@ -1,501 +1,501 @@
 pt_id,pt_name,gender,age,city,district,occupation
-1,Patient_1,Female,62,Jaffna,Central,Doctor
-2,Patient_2,Female,16,Kurunegala,Central,Teacher
-3,Patient_3,Female,78,Colombo,Southern,Doctor
-4,Patient_4,Male,32,Kandy,Central,Doctor
-5,Patient_5,Female,46,Jaffna,North Western,Student
-6,Patient_6,Male,22,Colombo,Central,Teacher
-7,Patient_7,Female,84,Colombo,Western,Doctor
-8,Patient_8,Female,7,Negombo,Southern,Teacher
-9,Patient_9,Female,20,Kandy,Central,Driver
-10,Patient_10,Female,69,Jaffna,Sabaragamuwa,Farmer
-11,Patient_11,Female,71,Ratnapura,Northern,Teacher
-12,Patient_12,Male,3,Kandy,Southern,Farmer
-13,Patient_13,Male,6,Negombo,Sabaragamuwa,Teacher
-14,Patient_14,Female,86,Jaffna,Sabaragamuwa,Teacher
-15,Patient_15,Female,27,Galle,Northern,Engineer
-16,Patient_16,Female,58,Kurunegala,North Western,Farmer
-17,Patient_17,Male,30,Galle,Northern,Farmer
-18,Patient_18,Female,55,Kurunegala,North Western,Driver
-19,Patient_19,Male,42,Colombo,Sabaragamuwa,Driver
-20,Patient_20,Male,24,Kandy,Western,Farmer
-21,Patient_21,Male,53,Galle,Northern,Farmer
-22,Patient_22,Female,19,Jaffna,North Western,Farmer
-23,Patient_23,Female,45,Ratnapura,Sabaragamuwa,Teacher
-24,Patient_24,Female,1,Galle,Central,Doctor
-25,Patient_25,Male,52,Jaffna,North Western,Driver
-26,Patient_26,Female,25,Kurunegala,Sabaragamuwa,Doctor
-27,Patient_27,Female,24,Colombo,Southern,Nurse
-28,Patient_28,Male,68,Galle,Central,Driver
-29,Patient_29,Female,68,Kandy,Central,Driver
-30,Patient_30,Male,35,Kandy,Central,Farmer
-31,Patient_31,Male,88,Ratnapura,Northern,Farmer
-32,Patient_32,Male,63,Colombo,North Western,Teacher
-33,Patient_33,Male,25,Jaffna,Sabaragamuwa,Engineer
-34,Patient_34,Male,76,Negombo,Sabaragamuwa,Nurse
-35,Patient_35,Male,34,Kurunegala,Western,Nurse
-36,Patient_36,Male,35,Negombo,Western,Farmer
-37,Patient_37,Male,75,Galle,Southern,Driver
-38,Patient_38,Male,85,Galle,Western,Engineer
-39,Patient_39,Male,71,Jaffna,Western,Driver
-40,Patient_40,Female,29,Galle,North Western,Farmer
-41,Patient_41,Male,57,Kurunegala,Central,Student
-42,Patient_42,Male,1,Colombo,Sabaragamuwa,Farmer
-43,Patient_43,Male,85,Colombo,Northern,Teacher
-44,Patient_44,Female,78,Kurunegala,Southern,Nurse
-45,Patient_45,Female,48,Colombo,North Western,Nurse
-46,Patient_46,Female,72,Jaffna,Southern,Student
-47,Patient_47,Female,86,Negombo,North Western,Engineer
-48,Patient_48,Male,64,Jaffna,North Western,Farmer
-49,Patient_49,Male,19,Colombo,Sabaragamuwa,Farmer
-50,Patient_50,Female,59,Kurunegala,Central,Doctor
-51,Patient_51,Male,28,Jaffna,Southern,Farmer
-52,Patient_52,Male,57,Jaffna,Central,Doctor
-53,Patient_53,Male,6,Galle,Southern,Teacher
-54,Patient_54,Female,12,Kurunegala,Sabaragamuwa,Farmer
-55,Patient_55,Male,44,Jaffna,Central,Engineer
-56,Patient_56,Male,14,Jaffna,North Western,Driver
-57,Patient_57,Male,79,Ratnapura,Southern,Farmer
-58,Patient_58,Male,85,Negombo,Sabaragamuwa,Doctor
-59,Patient_59,Female,61,Kurunegala,Western,Nurse
-60,Patient_60,Male,15,Kurunegala,North Western,Driver
-61,Patient_61,Male,20,Ratnapura,North Western,Teacher
-62,Patient_62,Male,89,Kandy,North Western,Student
-63,Patient_63,Male,71,Ratnapura,Western,Student
-64,Patient_64,Male,76,Galle,Central,Farmer
-65,Patient_65,Female,83,Kurunegala,North Western,Nurse
-66,Patient_66,Male,16,Ratnapura,Sabaragamuwa,Farmer
-67,Patient_67,Male,63,Kandy,Southern,Driver
-68,Patient_68,Female,54,Kurunegala,Sabaragamuwa,Student
-69,Patient_69,Female,71,Galle,Southern,Student
-70,Patient_70,Male,80,Kandy,Western,Doctor
-71,Patient_71,Female,1,Colombo,Southern,Doctor
-72,Patient_72,Female,55,Kurunegala,Central,Nurse
-73,Patient_73,Male,60,Kurunegala,Southern,Nurse
-74,Patient_74,Male,9,Colombo,Southern,Teacher
-75,Patient_75,Female,71,Ratnapura,Southern,Doctor
-76,Patient_76,Male,1,Ratnapura,North Western,Farmer
-77,Patient_77,Female,13,Colombo,Northern,Doctor
-78,Patient_78,Male,32,Kandy,Western,Farmer
-79,Patient_79,Female,6,Jaffna,Central,Teacher
-80,Patient_80,Female,24,Ratnapura,Southern,Engineer
-81,Patient_81,Female,68,Ratnapura,North Western,Nurse
-82,Patient_82,Male,8,Galle,North Western,Student
-83,Patient_83,Male,42,Colombo,Northern,Doctor
-84,Patient_84,Female,65,Kurunegala,Central,Driver
-85,Patient_85,Female,86,Colombo,Sabaragamuwa,Teacher
-86,Patient_86,Male,42,Kandy,Northern,Engineer
-87,Patient_87,Female,32,Kurunegala,North Western,Teacher
-88,Patient_88,Female,22,Ratnapura,Central,Farmer
-89,Patient_89,Male,14,Kandy,Western,Student
-90,Patient_90,Male,26,Kandy,North Western,Farmer
-91,Patient_91,Male,16,Galle,Sabaragamuwa,Farmer
-92,Patient_92,Female,69,Negombo,North Western,Teacher
-93,Patient_93,Female,64,Kandy,Sabaragamuwa,Farmer
-94,Patient_94,Female,38,Galle,North Western,Student
-95,Patient_95,Male,4,Ratnapura,North Western,Driver
-96,Patient_96,Male,37,Kurunegala,Sabaragamuwa,Driver
-97,Patient_97,Female,13,Negombo,Southern,Nurse
-98,Patient_98,Male,59,Negombo,North Western,Driver
-99,Patient_99,Female,26,Galle,Central,Doctor
-100,Patient_100,Male,22,Ratnapura,Sabaragamuwa,Farmer
-101,Patient_101,Female,54,Kurunegala,Northern,Doctor
-102,Patient_102,Female,44,Kurunegala,Southern,Engineer
-103,Patient_103,Male,50,Ratnapura,Sabaragamuwa,Student
-104,Patient_104,Male,22,Negombo,Southern,Farmer
-105,Patient_105,Female,83,Jaffna,North Western,Driver
-106,Patient_106,Male,29,Colombo,Western,Farmer
-107,Patient_107,Male,40,Jaffna,Central,Nurse
-108,Patient_108,Female,47,Jaffna,Southern,Nurse
-109,Patient_109,Male,38,Jaffna,North Western,Engineer
-110,Patient_110,Male,64,Colombo,Sabaragamuwa,Engineer
-111,Patient_111,Female,61,Colombo,Western,Driver
-112,Patient_112,Male,45,Kurunegala,Northern,Teacher
-113,Patient_113,Male,15,Kandy,Sabaragamuwa,Doctor
-114,Patient_114,Male,1,Galle,Southern,Engineer
-115,Patient_115,Male,56,Ratnapura,North Western,Driver
-116,Patient_116,Male,5,Jaffna,North Western,Student
-117,Patient_117,Male,62,Kurunegala,Central,Driver
-118,Patient_118,Male,30,Ratnapura,Western,Nurse
-119,Patient_119,Female,75,Jaffna,Sabaragamuwa,Teacher
-120,Patient_120,Male,89,Kurunegala,Central,Nurse
-121,Patient_121,Male,83,Ratnapura,Sabaragamuwa,Driver
-122,Patient_122,Female,4,Ratnapura,Sabaragamuwa,Driver
-123,Patient_123,Female,60,Kurunegala,Western,Engineer
-124,Patient_124,Male,35,Kurunegala,Sabaragamuwa,Engineer
-125,Patient_125,Female,78,Ratnapura,Southern,Driver
-126,Patient_126,Female,49,Ratnapura,North Western,Teacher
-127,Patient_127,Male,1,Ratnapura,North Western,Nurse
-128,Patient_128,Female,83,Galle,North Western,Driver
-129,Patient_129,Male,64,Negombo,Southern,Student
-130,Patient_130,Male,67,Colombo,Southern,Driver
-131,Patient_131,Female,5,Negombo,Southern,Doctor
-132,Patient_132,Female,1,Kandy,Sabaragamuwa,Driver
-133,Patient_133,Male,4,Galle,Southern,Nurse
-134,Patient_134,Female,58,Negombo,North Western,Teacher
-135,Patient_135,Male,19,Jaffna,Central,Teacher
-136,Patient_136,Male,10,Colombo,Western,Student
-137,Patient_137,Female,83,Colombo,Central,Nurse
-138,Patient_138,Female,17,Kandy,Northern,Student
-139,Patient_139,Male,15,Galle,Central,Farmer
-140,Patient_140,Female,82,Colombo,Sabaragamuwa,Driver
-141,Patient_141,Male,40,Colombo,Sabaragamuwa,Engineer
-142,Patient_142,Female,63,Ratnapura,Central,Driver
-143,Patient_143,Male,81,Negombo,Southern,Teacher
-144,Patient_144,Male,45,Ratnapura,North Western,Teacher
-145,Patient_145,Female,8,Kurunegala,Southern,Nurse
-146,Patient_146,Male,69,Kandy,Sabaragamuwa,Nurse
-147,Patient_147,Female,41,Colombo,Sabaragamuwa,Driver
-148,Patient_148,Male,35,Jaffna,Central,Teacher
-149,Patient_149,Male,71,Ratnapura,Central,Student
-150,Patient_150,Female,7,Ratnapura,Sabaragamuwa,Nurse
-151,Patient_151,Male,64,Colombo,Central,Farmer
-152,Patient_152,Male,36,Jaffna,Central,Nurse
-153,Patient_153,Female,19,Negombo,Sabaragamuwa,Doctor
-154,Patient_154,Male,65,Kandy,Central,Teacher
-155,Patient_155,Male,73,Ratnapura,Western,Teacher
-156,Patient_156,Female,6,Ratnapura,Southern,Driver
-157,Patient_157,Female,89,Colombo,Central,Farmer
-158,Patient_158,Female,77,Colombo,Northern,Driver
-159,Patient_159,Female,80,Ratnapura,Sabaragamuwa,Student
-160,Patient_160,Male,68,Kandy,Southern,Doctor
-161,Patient_161,Male,35,Negombo,Northern,Farmer
-162,Patient_162,Male,89,Colombo,Sabaragamuwa,Nurse
-163,Patient_163,Male,35,Colombo,Sabaragamuwa,Engineer
-164,Patient_164,Male,9,Kandy,Central,Driver
-165,Patient_165,Female,16,Colombo,Western,Farmer
-166,Patient_166,Male,17,Kurunegala,Western,Teacher
-167,Patient_167,Male,6,Colombo,North Western,Teacher
-168,Patient_168,Female,20,Colombo,Western,Engineer
-169,Patient_169,Female,16,Jaffna,North Western,Engineer
-170,Patient_170,Male,10,Colombo,Southern,Doctor
-171,Patient_171,Female,19,Jaffna,Central,Doctor
-172,Patient_172,Female,33,Kurunegala,Sabaragamuwa,Farmer
-173,Patient_173,Male,63,Colombo,North Western,Doctor
-174,Patient_174,Female,58,Ratnapura,Southern,Nurse
-175,Patient_175,Female,37,Galle,Southern,Teacher
-176,Patient_176,Female,84,Galle,Northern,Farmer
-177,Patient_177,Female,1,Kurunegala,North Western,Engineer
-178,Patient_178,Female,61,Negombo,Northern,Driver
-179,Patient_179,Female,39,Kurunegala,Northern,Engineer
-180,Patient_180,Female,50,Kandy,Southern,Farmer
-181,Patient_181,Female,79,Colombo,Northern,Driver
-182,Patient_182,Female,78,Kurunegala,Southern,Engineer
-183,Patient_183,Male,81,Jaffna,Central,Driver
-184,Patient_184,Male,61,Colombo,Sabaragamuwa,Teacher
-185,Patient_185,Male,13,Colombo,Sabaragamuwa,Farmer
-186,Patient_186,Male,2,Negombo,Southern,Student
-187,Patient_187,Male,21,Kurunegala,Sabaragamuwa,Driver
-188,Patient_188,Male,28,Colombo,Southern,Engineer
-189,Patient_189,Male,55,Kurunegala,North Western,Engineer
-190,Patient_190,Female,46,Negombo,Northern,Engineer
-191,Patient_191,Male,7,Ratnapura,Northern,Doctor
-192,Patient_192,Female,84,Ratnapura,Central,Teacher
-193,Patient_193,Male,74,Colombo,Western,Nurse
-194,Patient_194,Female,5,Jaffna,Western,Engineer
-195,Patient_195,Male,78,Jaffna,Southern,Driver
-196,Patient_196,Male,26,Kurunegala,Northern,Nurse
-197,Patient_197,Male,82,Negombo,Central,Student
-198,Patient_198,Male,40,Kandy,Sabaragamuwa,Teacher
-199,Patient_199,Male,43,Kandy,Sabaragamuwa,Driver
-200,Patient_200,Male,88,Kurunegala,North Western,Doctor
-201,Patient_201,Female,85,Galle,North Western,Teacher
-202,Patient_202,Female,78,Negombo,North Western,Nurse
-203,Patient_203,Female,81,Colombo,North Western,Teacher
-204,Patient_204,Male,66,Colombo,Western,Nurse
-205,Patient_205,Female,1,Ratnapura,Sabaragamuwa,Student
-206,Patient_206,Male,74,Kurunegala,Western,Engineer
-207,Patient_207,Female,46,Kurunegala,Northern,Driver
-208,Patient_208,Male,77,Kandy,Southern,Engineer
-209,Patient_209,Male,54,Galle,Central,Doctor
-210,Patient_210,Female,1,Colombo,North Western,Student
-211,Patient_211,Female,89,Negombo,Southern,Doctor
-212,Patient_212,Female,40,Kandy,Western,Engineer
-213,Patient_213,Female,70,Galle,Southern,Student
-214,Patient_214,Male,30,Ratnapura,Central,Doctor
-215,Patient_215,Male,55,Galle,Western,Driver
-216,Patient_216,Male,46,Ratnapura,Sabaragamuwa,Doctor
-217,Patient_217,Male,12,Kandy,Central,Engineer
-218,Patient_218,Male,76,Ratnapura,Southern,Teacher
-219,Patient_219,Male,31,Colombo,Central,Doctor
-220,Patient_220,Male,83,Kurunegala,Northern,Nurse
-221,Patient_221,Female,68,Jaffna,Central,Doctor
-222,Patient_222,Female,33,Kandy,North Western,Nurse
-223,Patient_223,Female,25,Kandy,Northern,Engineer
-224,Patient_224,Male,11,Colombo,Western,Farmer
-225,Patient_225,Female,82,Ratnapura,Sabaragamuwa,Engineer
-226,Patient_226,Male,58,Jaffna,Central,Student
-227,Patient_227,Male,30,Ratnapura,Central,Teacher
-228,Patient_228,Female,15,Ratnapura,Southern,Student
-229,Patient_229,Female,34,Colombo,North Western,Doctor
-230,Patient_230,Female,21,Colombo,Southern,Doctor
-231,Patient_231,Male,53,Negombo,North Western,Doctor
-232,Patient_232,Female,14,Negombo,North Western,Student
-233,Patient_233,Male,40,Ratnapura,Central,Driver
-234,Patient_234,Female,26,Ratnapura,Sabaragamuwa,Teacher
-235,Patient_235,Male,33,Ratnapura,Central,Doctor
-236,Patient_236,Female,24,Kurunegala,North Western,Nurse
-237,Patient_237,Female,12,Kandy,Northern,Nurse
-238,Patient_238,Male,9,Negombo,Central,Driver
-239,Patient_239,Female,47,Colombo,North Western,Driver
-240,Patient_240,Female,54,Kandy,Sabaragamuwa,Engineer
-241,Patient_241,Male,41,Kandy,North Western,Doctor
-242,Patient_242,Female,59,Kurunegala,North Western,Farmer
-243,Patient_243,Male,16,Kandy,Southern,Student
-244,Patient_244,Male,54,Kandy,Northern,Doctor
-245,Patient_245,Female,68,Kurunegala,Southern,Doctor
-246,Patient_246,Male,28,Ratnapura,North Western,Farmer
-247,Patient_247,Male,30,Kurunegala,Sabaragamuwa,Nurse
-248,Patient_248,Male,74,Ratnapura,North Western,Teacher
-249,Patient_249,Female,36,Jaffna,Northern,Student
-250,Patient_250,Male,54,Jaffna,Western,Engineer
-251,Patient_251,Female,25,Galle,Southern,Doctor
-252,Patient_252,Female,36,Jaffna,Central,Farmer
-253,Patient_253,Male,33,Galle,Sabaragamuwa,Teacher
-254,Patient_254,Female,86,Kurunegala,Southern,Engineer
-255,Patient_255,Female,86,Colombo,Northern,Doctor
-256,Patient_256,Female,22,Kurunegala,Northern,Driver
-257,Patient_257,Male,4,Colombo,Northern,Driver
-258,Patient_258,Male,55,Negombo,Central,Engineer
-259,Patient_259,Female,68,Ratnapura,Western,Nurse
-260,Patient_260,Male,5,Colombo,Western,Student
-261,Patient_261,Female,85,Galle,Southern,Farmer
-262,Patient_262,Female,38,Colombo,Southern,Farmer
-263,Patient_263,Male,26,Kurunegala,Sabaragamuwa,Driver
-264,Patient_264,Male,12,Kurunegala,Central,Nurse
-265,Patient_265,Female,59,Ratnapura,Northern,Driver
-266,Patient_266,Female,17,Ratnapura,North Western,Doctor
-267,Patient_267,Male,36,Jaffna,Northern,Nurse
-268,Patient_268,Female,21,Colombo,Northern,Driver
-269,Patient_269,Male,81,Kurunegala,North Western,Nurse
-270,Patient_270,Female,31,Colombo,Western,Student
-271,Patient_271,Female,87,Kandy,Sabaragamuwa,Doctor
-272,Patient_272,Male,39,Galle,Western,Engineer
-273,Patient_273,Female,36,Kandy,Central,Student
-274,Patient_274,Female,81,Colombo,Sabaragamuwa,Engineer
-275,Patient_275,Male,59,Colombo,Western,Teacher
-276,Patient_276,Male,80,Kurunegala,Central,Doctor
-277,Patient_277,Female,33,Negombo,Sabaragamuwa,Teacher
-278,Patient_278,Male,79,Ratnapura,Northern,Doctor
-279,Patient_279,Male,71,Jaffna,Southern,Teacher
-280,Patient_280,Male,88,Kurunegala,North Western,Engineer
-281,Patient_281,Male,56,Kurunegala,Sabaragamuwa,Farmer
-282,Patient_282,Male,37,Ratnapura,Northern,Teacher
-283,Patient_283,Female,80,Kandy,Central,Engineer
-284,Patient_284,Female,66,Jaffna,Central,Teacher
-285,Patient_285,Male,76,Jaffna,Southern,Driver
-286,Patient_286,Female,34,Kurunegala,Western,Farmer
-287,Patient_287,Male,20,Kandy,Central,Engineer
-288,Patient_288,Male,51,Kandy,Southern,Doctor
-289,Patient_289,Female,20,Kurunegala,North Western,Engineer
-290,Patient_290,Female,16,Negombo,Sabaragamuwa,Teacher
-291,Patient_291,Female,66,Jaffna,North Western,Engineer
-292,Patient_292,Female,35,Ratnapura,Sabaragamuwa,Engineer
-293,Patient_293,Male,52,Kandy,Western,Doctor
-294,Patient_294,Male,19,Galle,North Western,Driver
-295,Patient_295,Female,47,Colombo,Southern,Nurse
-296,Patient_296,Female,61,Kurunegala,North Western,Driver
-297,Patient_297,Female,28,Colombo,North Western,Engineer
-298,Patient_298,Female,40,Galle,Western,Doctor
-299,Patient_299,Female,60,Galle,Southern,Doctor
-300,Patient_300,Male,82,Ratnapura,Western,Teacher
-301,Patient_301,Female,69,Galle,Central,Engineer
-302,Patient_302,Male,45,Jaffna,North Western,Engineer
-303,Patient_303,Female,5,Kurunegala,Southern,Engineer
-304,Patient_304,Male,88,Galle,Northern,Nurse
-305,Patient_305,Male,11,Kurunegala,Western,Driver
-306,Patient_306,Male,35,Negombo,Sabaragamuwa,Student
-307,Patient_307,Male,79,Ratnapura,Central,Teacher
-308,Patient_308,Male,61,Negombo,Sabaragamuwa,Driver
-309,Patient_309,Female,25,Galle,North Western,Student
-310,Patient_310,Male,26,Kurunegala,Western,Doctor
-311,Patient_311,Female,74,Kandy,North Western,Student
-312,Patient_312,Male,82,Kurunegala,Sabaragamuwa,Teacher
-313,Patient_313,Male,12,Colombo,Southern,Teacher
-314,Patient_314,Male,81,Colombo,Sabaragamuwa,Teacher
-315,Patient_315,Male,8,Ratnapura,North Western,Farmer
-316,Patient_316,Male,10,Galle,Sabaragamuwa,Engineer
-317,Patient_317,Female,30,Kurunegala,Southern,Doctor
-318,Patient_318,Male,27,Galle,North Western,Farmer
-319,Patient_319,Male,52,Ratnapura,Southern,Farmer
-320,Patient_320,Female,52,Jaffna,Sabaragamuwa,Driver
-321,Patient_321,Female,51,Kandy,Western,Driver
-322,Patient_322,Female,71,Colombo,Northern,Engineer
-323,Patient_323,Male,55,Ratnapura,Central,Driver
-324,Patient_324,Male,61,Kurunegala,Western,Student
-325,Patient_325,Female,53,Galle,Northern,Doctor
-326,Patient_326,Female,12,Kandy,North Western,Doctor
-327,Patient_327,Male,79,Kurunegala,Central,Student
-328,Patient_328,Male,88,Kandy,Central,Engineer
-329,Patient_329,Female,2,Kurunegala,Northern,Engineer
-330,Patient_330,Female,3,Galle,Central,Engineer
-331,Patient_331,Male,27,Colombo,Sabaragamuwa,Teacher
-332,Patient_332,Female,2,Jaffna,North Western,Nurse
-333,Patient_333,Male,34,Negombo,Southern,Farmer
-334,Patient_334,Female,1,Galle,Western,Driver
-335,Patient_335,Female,71,Negombo,Southern,Engineer
-336,Patient_336,Female,69,Colombo,Western,Doctor
-337,Patient_337,Female,62,Kandy,Western,Nurse
-338,Patient_338,Male,68,Negombo,Western,Teacher
-339,Patient_339,Male,41,Kandy,Western,Engineer
-340,Patient_340,Male,39,Kandy,Northern,Engineer
-341,Patient_341,Male,46,Jaffna,Northern,Teacher
-342,Patient_342,Female,62,Kurunegala,Central,Doctor
-343,Patient_343,Male,24,Kandy,Southern,Farmer
-344,Patient_344,Male,11,Colombo,Central,Teacher
-345,Patient_345,Male,68,Colombo,Sabaragamuwa,Student
-346,Patient_346,Male,21,Ratnapura,Sabaragamuwa,Student
-347,Patient_347,Female,59,Kandy,Western,Engineer
-348,Patient_348,Male,37,Ratnapura,Western,Driver
-349,Patient_349,Female,3,Jaffna,Central,Farmer
-350,Patient_350,Female,3,Ratnapura,Sabaragamuwa,Nurse
-351,Patient_351,Female,50,Negombo,Central,Engineer
-352,Patient_352,Male,29,Kandy,Central,Student
-353,Patient_353,Female,68,Colombo,Southern,Student
-354,Patient_354,Female,58,Ratnapura,Western,Engineer
-355,Patient_355,Male,26,Kandy,Sabaragamuwa,Student
-356,Patient_356,Male,15,Kandy,North Western,Doctor
-357,Patient_357,Male,70,Kurunegala,Northern,Engineer
-358,Patient_358,Female,5,Galle,North Western,Doctor
-359,Patient_359,Female,9,Ratnapura,North Western,Driver
-360,Patient_360,Female,14,Negombo,Sabaragamuwa,Engineer
-361,Patient_361,Male,5,Negombo,North Western,Farmer
-362,Patient_362,Male,80,Colombo,Southern,Student
-363,Patient_363,Male,74,Ratnapura,Sabaragamuwa,Engineer
-364,Patient_364,Male,42,Kurunegala,Central,Farmer
-365,Patient_365,Male,85,Kurunegala,Western,Engineer
-366,Patient_366,Female,43,Ratnapura,Sabaragamuwa,Nurse
-367,Patient_367,Female,34,Jaffna,Northern,Student
-368,Patient_368,Male,7,Kandy,Northern,Nurse
-369,Patient_369,Female,59,Jaffna,Western,Driver
-370,Patient_370,Female,9,Ratnapura,Sabaragamuwa,Teacher
-371,Patient_371,Female,56,Colombo,Northern,Engineer
-372,Patient_372,Male,80,Jaffna,Southern,Student
-373,Patient_373,Male,36,Kurunegala,Western,Student
-374,Patient_374,Male,67,Ratnapura,Sabaragamuwa,Student
-375,Patient_375,Male,18,Galle,North Western,Nurse
-376,Patient_376,Male,23,Kandy,Northern,Student
-377,Patient_377,Female,67,Kurunegala,Western,Doctor
-378,Patient_378,Female,16,Ratnapura,Western,Doctor
-379,Patient_379,Male,41,Galle,Western,Doctor
-380,Patient_380,Female,71,Jaffna,Western,Student
-381,Patient_381,Female,64,Colombo,Northern,Teacher
-382,Patient_382,Male,88,Jaffna,Northern,Nurse
-383,Patient_383,Female,64,Colombo,Northern,Teacher
-384,Patient_384,Female,9,Kandy,Southern,Farmer
-385,Patient_385,Female,60,Kandy,Central,Engineer
-386,Patient_386,Male,37,Colombo,Western,Driver
-387,Patient_387,Male,60,Negombo,Central,Student
-388,Patient_388,Female,35,Ratnapura,Southern,Doctor
-389,Patient_389,Female,29,Kandy,North Western,Farmer
-390,Patient_390,Male,5,Negombo,Northern,Farmer
-391,Patient_391,Male,44,Kurunegala,Southern,Nurse
-392,Patient_392,Male,69,Galle,Central,Nurse
-393,Patient_393,Male,89,Jaffna,North Western,Student
-394,Patient_394,Female,44,Negombo,Sabaragamuwa,Student
-395,Patient_395,Male,31,Kurunegala,Southern,Engineer
-396,Patient_396,Female,4,Ratnapura,Sabaragamuwa,Teacher
-397,Patient_397,Male,45,Jaffna,Central,Nurse
-398,Patient_398,Female,85,Negombo,Sabaragamuwa,Student
-399,Patient_399,Male,36,Galle,North Western,Nurse
-400,Patient_400,Male,4,Negombo,Sabaragamuwa,Student
-401,Patient_401,Female,84,Ratnapura,Northern,Engineer
-402,Patient_402,Male,2,Kurunegala,Sabaragamuwa,Farmer
-403,Patient_403,Male,38,Negombo,North Western,Nurse
-404,Patient_404,Female,39,Colombo,Central,Teacher
-405,Patient_405,Female,15,Kurunegala,North Western,Farmer
-406,Patient_406,Female,74,Kandy,Northern,Teacher
-407,Patient_407,Male,3,Galle,North Western,Driver
-408,Patient_408,Male,73,Kurunegala,Western,Student
-409,Patient_409,Female,76,Kandy,Southern,Engineer
-410,Patient_410,Female,28,Colombo,Sabaragamuwa,Doctor
-411,Patient_411,Female,2,Kandy,Western,Farmer
-412,Patient_412,Male,58,Kurunegala,Sabaragamuwa,Student
-413,Patient_413,Male,39,Ratnapura,Western,Driver
-414,Patient_414,Female,24,Colombo,Western,Engineer
-415,Patient_415,Female,7,Galle,Central,Farmer
-416,Patient_416,Male,62,Negombo,Sabaragamuwa,Engineer
-417,Patient_417,Male,61,Galle,Sabaragamuwa,Doctor
-418,Patient_418,Female,49,Colombo,Northern,Teacher
-419,Patient_419,Male,17,Galle,Southern,Teacher
-420,Patient_420,Male,2,Galle,North Western,Engineer
-421,Patient_421,Female,65,Colombo,Sabaragamuwa,Farmer
-422,Patient_422,Male,3,Ratnapura,Western,Teacher
-423,Patient_423,Male,60,Jaffna,Sabaragamuwa,Driver
-424,Patient_424,Male,53,Colombo,Sabaragamuwa,Farmer
-425,Patient_425,Male,84,Jaffna,Southern,Driver
-426,Patient_426,Male,71,Jaffna,Sabaragamuwa,Nurse
-427,Patient_427,Female,24,Negombo,Northern,Student
-428,Patient_428,Female,79,Jaffna,Southern,Driver
-429,Patient_429,Female,52,Colombo,Northern,Teacher
-430,Patient_430,Female,89,Galle,Western,Driver
-431,Patient_431,Female,6,Kurunegala,Western,Teacher
-432,Patient_432,Female,77,Ratnapura,Southern,Teacher
-433,Patient_433,Male,25,Kurunegala,Southern,Doctor
-434,Patient_434,Female,23,Kandy,North Western,Farmer
-435,Patient_435,Female,54,Kurunegala,Northern,Nurse
-436,Patient_436,Female,27,Kurunegala,North Western,Teacher
-437,Patient_437,Male,47,Negombo,Central,Doctor
-438,Patient_438,Male,57,Negombo,Central,Engineer
-439,Patient_439,Female,81,Galle,Western,Doctor
-440,Patient_440,Male,29,Jaffna,Northern,Farmer
-441,Patient_441,Female,29,Jaffna,Southern,Nurse
-442,Patient_442,Female,18,Kandy,Western,Teacher
-443,Patient_443,Female,61,Jaffna,North Western,Driver
-444,Patient_444,Female,47,Galle,Central,Nurse
-445,Patient_445,Male,47,Kurunegala,Sabaragamuwa,Teacher
-446,Patient_446,Female,20,Negombo,Sabaragamuwa,Engineer
-447,Patient_447,Male,22,Jaffna,North Western,Farmer
-448,Patient_448,Male,60,Kandy,North Western,Student
-449,Patient_449,Male,24,Colombo,North Western,Driver
-450,Patient_450,Female,30,Kurunegala,Central,Engineer
-451,Patient_451,Male,49,Colombo,Sabaragamuwa,Engineer
-452,Patient_452,Female,27,Negombo,Western,Driver
-453,Patient_453,Female,40,Colombo,Southern,Farmer
-454,Patient_454,Male,59,Ratnapura,Sabaragamuwa,Teacher
-455,Patient_455,Male,23,Kurunegala,Southern,Teacher
-456,Patient_456,Male,74,Negombo,Western,Student
-457,Patient_457,Male,44,Ratnapura,Northern,Teacher
-458,Patient_458,Male,84,Kurunegala,Sabaragamuwa,Teacher
-459,Patient_459,Male,79,Ratnapura,Sabaragamuwa,Nurse
-460,Patient_460,Female,1,Galle,Southern,Doctor
-461,Patient_461,Female,30,Colombo,North Western,Driver
-462,Patient_462,Female,47,Kandy,Northern,Engineer
-463,Patient_463,Female,12,Galle,Southern,Farmer
-464,Patient_464,Male,7,Colombo,Western,Teacher
-465,Patient_465,Male,69,Galle,Central,Farmer
-466,Patient_466,Female,44,Negombo,Sabaragamuwa,Driver
-467,Patient_467,Male,51,Ratnapura,Southern,Farmer
-468,Patient_468,Female,20,Galle,Western,Farmer
-469,Patient_469,Female,70,Kandy,Western,Teacher
-470,Patient_470,Male,37,Ratnapura,North Western,Nurse
-471,Patient_471,Male,28,Kurunegala,Western,Driver
-472,Patient_472,Female,72,Negombo,Sabaragamuwa,Driver
-473,Patient_473,Female,78,Negombo,Southern,Farmer
-474,Patient_474,Female,10,Jaffna,Southern,Engineer
-475,Patient_475,Female,87,Kurunegala,Southern,Nurse
-476,Patient_476,Male,27,Colombo,Sabaragamuwa,Teacher
-477,Patient_477,Male,50,Kurunegala,North Western,Farmer
-478,Patient_478,Male,36,Kurunegala,Central,Farmer
-479,Patient_479,Male,24,Negombo,Western,Student
-480,Patient_480,Male,43,Jaffna,Sabaragamuwa,Teacher
-481,Patient_481,Male,78,Kurunegala,Western,Teacher
-482,Patient_482,Male,23,Ratnapura,Western,Doctor
-483,Patient_483,Male,83,Negombo,North Western,Student
-484,Patient_484,Male,33,Kurunegala,North Western,Teacher
-485,Patient_485,Female,17,Negombo,Central,Student
-486,Patient_486,Male,31,Kandy,Southern,Engineer
-487,Patient_487,Female,63,Negombo,Southern,Doctor
-488,Patient_488,Female,67,Ratnapura,Sabaragamuwa,Teacher
-489,Patient_489,Male,61,Kurunegala,North Western,Driver
-490,Patient_490,Male,80,Kandy,Northern,Driver
-491,Patient_491,Female,62,Jaffna,Southern,Engineer
-492,Patient_492,Male,15,Jaffna,Southern,Engineer
-493,Patient_493,Male,60,Colombo,Central,Driver
-494,Patient_494,Male,87,Jaffna,Southern,Nurse
-495,Patient_495,Female,37,Colombo,Sabaragamuwa,Engineer
-496,Patient_496,Male,1,Kurunegala,North Western,Driver
-497,Patient_497,Female,50,Ratnapura,Western,Teacher
-498,Patient_498,Female,48,Kandy,Central,Driver
-499,Patient_499,Female,28,Ratnapura,Northern,Student
-500,Patient_500,Female,8,Kandy,Southern,Student
+1,Ishara Madushani,Female,62,Jaffna,Central,Doctor
+2,Tharushi Dissanayake,Female,16,Kurunegala,Central,Teacher
+3,Hasini Kumari,Female,78,Colombo,Southern,Doctor
+4,Ruwan Jayasinghe,Male,32,Kandy,Central,Doctor
+5,Sachini Ekanayake,Female,46,Jaffna,North Western,Student
+6,Sahan Gunasekara,Male,22,Colombo,Central,Teacher
+7,Dilani Jayasinghe,Female,84,Colombo,Western,Doctor
+8,Piumi Weerasinghe,Female,7,Negombo,Southern,Teacher
+9,Piumi Weerasinghe,Female,20,Kandy,Central,Driver
+10,Hasini Kumari,Female,69,Jaffna,Sabaragamuwa,Farmer
+11,Iresha Pathirana,Female,71,Ratnapura,Northern,Teacher
+12,Kamal Fernando,Male,3,Kandy,Southern,Farmer
+13,Lakmal Jayawardena,Male,6,Negombo,Sabaragamuwa,Teacher
+14,Dulani Tennakoon,Female,86,Jaffna,Sabaragamuwa,Teacher
+15,Rashmi Bandara,Female,27,Galle,Northern,Engineer
+16,Anusha Gunasekara,Female,58,Kurunegala,North Western,Farmer
+17,Dinuka Herath,Male,30,Galle,Northern,Farmer
+18,Dulani Tennakoon,Female,55,Kurunegala,North Western,Driver
+19,Niroshan Wijesinghe,Male,42,Colombo,Sabaragamuwa,Driver
+20,Dinuka Herath,Male,24,Kandy,Western,Farmer
+21,Sahan Gunasekara,Male,53,Galle,Northern,Farmer
+22,Kavindi Fernando,Female,19,Jaffna,North Western,Farmer
+23,Anusha Gunasekara,Female,45,Ratnapura,Sabaragamuwa,Teacher
+24,Dulani Tennakoon,Female,1,Galle,Central,Doctor
+25,Supun Wickramasinghe,Male,52,Jaffna,North Western,Driver
+26,Shanika Rathnayake,Female,25,Kurunegala,Sabaragamuwa,Doctor
+27,Bimali Jayawardena,Female,24,Colombo,Southern,Nurse
+28,Nimal Perera,Male,68,Galle,Central,Driver
+29,Sashini Peris,Female,68,Kandy,Central,Driver
+30,Pradeep Senanayake,Male,35,Kandy,Central,Farmer
+31,Nimal Perera,Male,88,Ratnapura,Northern,Farmer
+32,Kamal Fernando,Male,63,Colombo,North Western,Teacher
+33,Tharindu Weerasinghe,Male,25,Jaffna,Sabaragamuwa,Engineer
+34,Nimal Perera,Male,76,Negombo,Sabaragamuwa,Nurse
+35,Sandun Peris,Male,34,Kurunegala,Western,Nurse
+36,Tharindu Weerasinghe,Male,35,Negombo,Western,Farmer
+37,Ishara Pathirana,Male,75,Galle,Southern,Driver
+38,Ishara Pathirana,Male,85,Galle,Western,Engineer
+39,Tharindu Weerasinghe,Male,71,Jaffna,Western,Driver
+40,Kavindi Fernando,Female,29,Galle,North Western,Farmer
+41,Sahan Gunasekara,Male,57,Kurunegala,Central,Student
+42,Asela Kumara,Male,1,Colombo,Sabaragamuwa,Farmer
+43,Ravindu Tennakoon,Male,85,Colombo,Northern,Teacher
+44,Dilani Jayasinghe,Female,78,Kurunegala,Southern,Nurse
+45,Anusha Gunasekara,Female,48,Colombo,North Western,Nurse
+46,Iresha Pathirana,Female,72,Jaffna,Southern,Student
+47,Shanika Rathnayake,Female,86,Negombo,North Western,Engineer
+48,Kasun Rathnayake,Male,64,Jaffna,North Western,Farmer
+49,Nimal Perera,Male,19,Colombo,Sabaragamuwa,Farmer
+50,Shanika Rathnayake,Female,59,Kurunegala,Central,Doctor
+51,Niroshan Wijesinghe,Male,28,Jaffna,Southern,Farmer
+52,Kasun Rathnayake,Male,57,Jaffna,Central,Doctor
+53,Ishara Pathirana,Male,6,Galle,Southern,Teacher
+54,Chathurika Abeywardena,Female,12,Kurunegala,Sabaragamuwa,Farmer
+55,Ravindu Tennakoon,Male,44,Jaffna,Central,Engineer
+56,Kamal Fernando,Male,14,Jaffna,North Western,Driver
+57,Kasun Rathnayake,Male,79,Ratnapura,Southern,Farmer
+58,Chamara Bandara,Male,85,Negombo,Sabaragamuwa,Doctor
+59,Hasini Kumari,Female,61,Kurunegala,Western,Nurse
+60,Ruwan Jayasinghe,Male,15,Kurunegala,North Western,Driver
+61,Lakmal Jayawardena,Male,20,Ratnapura,North Western,Teacher
+62,Nimal Perera,Male,89,Kandy,North Western,Student
+63,Pradeep Senanayake,Male,71,Ratnapura,Western,Student
+64,Niroshan Wijesinghe,Male,76,Galle,Central,Farmer
+65,Nirasha Herath,Female,83,Kurunegala,North Western,Nurse
+66,Dinuka Herath,Male,16,Ratnapura,Sabaragamuwa,Farmer
+67,Niroshan Wijesinghe,Male,63,Kandy,Southern,Driver
+68,Thilini Wickramasinghe,Female,54,Kurunegala,Sabaragamuwa,Student
+69,Kavisha Senanayake,Female,71,Galle,Southern,Student
+70,Ishara Pathirana,Male,80,Kandy,Western,Doctor
+71,Dilani Jayasinghe,Female,1,Colombo,Southern,Doctor
+72,Iresha Pathirana,Female,55,Kurunegala,Central,Nurse
+73,Pradeep Senanayake,Male,60,Kurunegala,Southern,Nurse
+74,Dulaj Abeywardena,Male,9,Colombo,Southern,Teacher
+75,Bimali Jayawardena,Female,71,Ratnapura,Southern,Doctor
+76,Dinuka Herath,Male,1,Ratnapura,North Western,Farmer
+77,Dulani Tennakoon,Female,13,Colombo,Northern,Doctor
+78,Pradeep Senanayake,Male,32,Kandy,Western,Farmer
+79,Nadeesha Perera,Female,6,Jaffna,Central,Teacher
+80,Dilani Jayasinghe,Female,24,Ratnapura,Southern,Engineer
+81,Nadeesha Perera,Female,68,Ratnapura,North Western,Nurse
+82,Ruwan Jayasinghe,Male,8,Galle,North Western,Student
+83,Ishara Pathirana,Male,42,Colombo,Northern,Doctor
+84,Iresha Pathirana,Female,65,Kurunegala,Central,Driver
+85,Nirasha Herath,Female,86,Colombo,Sabaragamuwa,Teacher
+86,Dinuka Herath,Male,42,Kandy,Northern,Engineer
+87,Anusha Gunasekara,Female,32,Kurunegala,North Western,Teacher
+88,Iresha Pathirana,Female,22,Ratnapura,Central,Farmer
+89,Nimal Perera,Male,14,Kandy,Western,Student
+90,Lakmal Jayawardena,Male,26,Kandy,North Western,Farmer
+91,Kasun Rathnayake,Male,16,Galle,Sabaragamuwa,Farmer
+92,Piumi Weerasinghe,Female,69,Negombo,North Western,Teacher
+93,Pavithra Wijesinghe,Female,64,Kandy,Sabaragamuwa,Farmer
+94,Hasini Kumari,Female,38,Galle,North Western,Student
+95,Ishara Pathirana,Male,4,Ratnapura,North Western,Driver
+96,Ruwan Jayasinghe,Male,37,Kurunegala,Sabaragamuwa,Driver
+97,Kavisha Senanayake,Female,13,Negombo,Southern,Nurse
+98,Ruwan Jayasinghe,Male,59,Negombo,North Western,Driver
+99,Tharushi Dissanayake,Female,26,Galle,Central,Doctor
+100,Niroshan Wijesinghe,Male,22,Ratnapura,Sabaragamuwa,Farmer
+101,Kavindi Fernando,Female,54,Kurunegala,Northern,Doctor
+102,Nadeesha Perera,Female,44,Kurunegala,Southern,Engineer
+103,Ruwan Jayasinghe,Male,50,Ratnapura,Sabaragamuwa,Student
+104,Ruwan Jayasinghe,Male,22,Negombo,Southern,Farmer
+105,Kavisha Senanayake,Female,83,Jaffna,North Western,Driver
+106,Chamara Bandara,Male,29,Colombo,Western,Farmer
+107,Roshan Dissanayake,Male,40,Jaffna,Central,Nurse
+108,Sashini Peris,Female,47,Jaffna,Southern,Nurse
+109,Sahan Gunasekara,Male,38,Jaffna,North Western,Engineer
+110,Ravindu Tennakoon,Male,64,Colombo,Sabaragamuwa,Engineer
+111,Nirasha Herath,Female,61,Colombo,Western,Driver
+112,Chamara Bandara,Male,45,Kurunegala,Northern,Teacher
+113,Ravindu Tennakoon,Male,15,Kandy,Sabaragamuwa,Doctor
+114,Chamara Bandara,Male,1,Galle,Southern,Engineer
+115,Ishara Pathirana,Male,56,Ratnapura,North Western,Driver
+116,Dulaj Abeywardena,Male,5,Jaffna,North Western,Student
+117,Roshan Dissanayake,Male,62,Kurunegala,Central,Driver
+118,Chamara Bandara,Male,30,Ratnapura,Western,Nurse
+119,Chathurika Abeywardena,Female,75,Jaffna,Sabaragamuwa,Teacher
+120,Tharindu Weerasinghe,Male,89,Kurunegala,Central,Nurse
+121,Chamara Bandara,Male,83,Ratnapura,Sabaragamuwa,Driver
+122,Hasini Kumari,Female,4,Ratnapura,Sabaragamuwa,Driver
+123,Anusha Gunasekara,Female,60,Kurunegala,Western,Engineer
+124,Pradeep Senanayake,Male,35,Kurunegala,Sabaragamuwa,Engineer
+125,Shanika Rathnayake,Female,78,Ratnapura,Southern,Driver
+126,Hasini Kumari,Female,49,Ratnapura,North Western,Teacher
+127,Kasun Rathnayake,Male,1,Ratnapura,North Western,Nurse
+128,Tharushi Dissanayake,Female,83,Galle,North Western,Driver
+129,Lakmal Jayawardena,Male,64,Negombo,Southern,Student
+130,Pradeep Senanayake,Male,67,Colombo,Southern,Driver
+131,Dilani Jayasinghe,Female,5,Negombo,Southern,Doctor
+132,Hasini Kumari,Female,1,Kandy,Sabaragamuwa,Driver
+133,Kasun Rathnayake,Male,4,Galle,Southern,Nurse
+134,Piumi Weerasinghe,Female,58,Negombo,North Western,Teacher
+135,Asela Kumara,Male,19,Jaffna,Central,Teacher
+136,Lakmal Jayawardena,Male,10,Colombo,Western,Student
+137,Tharushi Dissanayake,Female,83,Colombo,Central,Nurse
+138,Bimali Jayawardena,Female,17,Kandy,Northern,Student
+139,Chathura Ekanayake,Male,15,Galle,Central,Farmer
+140,Hasini Kumari,Female,82,Colombo,Sabaragamuwa,Driver
+141,Roshan Dissanayake,Male,40,Colombo,Sabaragamuwa,Engineer
+142,Hasini Kumari,Female,63,Ratnapura,Central,Driver
+143,Kasun Rathnayake,Male,81,Negombo,Southern,Teacher
+144,Kasun Rathnayake,Male,45,Ratnapura,North Western,Teacher
+145,Piumi Weerasinghe,Female,8,Kurunegala,Southern,Nurse
+146,Chamara Bandara,Male,69,Kandy,Sabaragamuwa,Nurse
+147,Ishara Madushani,Female,41,Colombo,Sabaragamuwa,Driver
+148,Kasun Rathnayake,Male,35,Jaffna,Central,Teacher
+149,Roshan Dissanayake,Male,71,Ratnapura,Central,Student
+150,Dilani Jayasinghe,Female,7,Ratnapura,Sabaragamuwa,Nurse
+151,Ruwan Jayasinghe,Male,64,Colombo,Central,Farmer
+152,Pradeep Senanayake,Male,36,Jaffna,Central,Nurse
+153,Dilani Jayasinghe,Female,19,Negombo,Sabaragamuwa,Doctor
+154,Supun Wickramasinghe,Male,65,Kandy,Central,Teacher
+155,Tharindu Weerasinghe,Male,73,Ratnapura,Western,Teacher
+156,Kavindi Fernando,Female,6,Ratnapura,Southern,Driver
+157,Chathurika Abeywardena,Female,89,Colombo,Central,Farmer
+158,Hasini Kumari,Female,77,Colombo,Northern,Driver
+159,Bimali Jayawardena,Female,80,Ratnapura,Sabaragamuwa,Student
+160,Chamara Bandara,Male,68,Kandy,Southern,Doctor
+161,Asela Kumara,Male,35,Negombo,Northern,Farmer
+162,Niroshan Wijesinghe,Male,89,Colombo,Sabaragamuwa,Nurse
+163,Roshan Dissanayake,Male,35,Colombo,Sabaragamuwa,Engineer
+164,Dinuka Herath,Male,9,Kandy,Central,Driver
+165,Chathurika Abeywardena,Female,16,Colombo,Western,Farmer
+166,Pradeep Senanayake,Male,17,Kurunegala,Western,Teacher
+167,Kasun Rathnayake,Male,6,Colombo,North Western,Teacher
+168,Kavindi Fernando,Female,20,Colombo,Western,Engineer
+169,Nirasha Herath,Female,16,Jaffna,North Western,Engineer
+170,Nimal Perera,Male,10,Colombo,Southern,Doctor
+171,Rashmi Bandara,Female,19,Jaffna,Central,Doctor
+172,Chathurika Abeywardena,Female,33,Kurunegala,Sabaragamuwa,Farmer
+173,Chamara Bandara,Male,63,Colombo,North Western,Doctor
+174,Piumi Weerasinghe,Female,58,Ratnapura,Southern,Nurse
+175,Chathurika Abeywardena,Female,37,Galle,Southern,Teacher
+176,Piumi Weerasinghe,Female,84,Galle,Northern,Farmer
+177,Ishara Madushani,Female,1,Kurunegala,North Western,Engineer
+178,Piumi Weerasinghe,Female,61,Negombo,Northern,Driver
+179,Nadeesha Perera,Female,39,Kurunegala,Northern,Engineer
+180,Sashini Peris,Female,50,Kandy,Southern,Farmer
+181,Rashmi Bandara,Female,79,Colombo,Northern,Driver
+182,Pavithra Wijesinghe,Female,78,Kurunegala,Southern,Engineer
+183,Chathura Ekanayake,Male,81,Jaffna,Central,Driver
+184,Ravindu Tennakoon,Male,61,Colombo,Sabaragamuwa,Teacher
+185,Asela Kumara,Male,13,Colombo,Sabaragamuwa,Farmer
+186,Kamal Fernando,Male,2,Negombo,Southern,Student
+187,Sunil Silva,Male,21,Kurunegala,Sabaragamuwa,Driver
+188,Supun Wickramasinghe,Male,28,Colombo,Southern,Engineer
+189,Tharindu Weerasinghe,Male,55,Kurunegala,North Western,Engineer
+190,Nirasha Herath,Female,46,Negombo,Northern,Engineer
+191,Ruwan Jayasinghe,Male,7,Ratnapura,Northern,Doctor
+192,Shanika Rathnayake,Female,84,Ratnapura,Central,Teacher
+193,Sandun Peris,Male,74,Colombo,Western,Nurse
+194,Anusha Gunasekara,Female,5,Jaffna,Western,Engineer
+195,Pradeep Senanayake,Male,78,Jaffna,Southern,Driver
+196,Lakmal Jayawardena,Male,26,Kurunegala,Northern,Nurse
+197,Ishara Pathirana,Male,82,Negombo,Central,Student
+198,Ravindu Tennakoon,Male,40,Kandy,Sabaragamuwa,Teacher
+199,Supun Wickramasinghe,Male,43,Kandy,Sabaragamuwa,Driver
+200,Tharindu Weerasinghe,Male,88,Kurunegala,North Western,Doctor
+201,Hasini Kumari,Female,85,Galle,North Western,Teacher
+202,Nirasha Herath,Female,78,Negombo,North Western,Nurse
+203,Pavithra Wijesinghe,Female,81,Colombo,North Western,Teacher
+204,Roshan Dissanayake,Male,66,Colombo,Western,Nurse
+205,Anusha Gunasekara,Female,1,Ratnapura,Sabaragamuwa,Student
+206,Ravindu Tennakoon,Male,74,Kurunegala,Western,Engineer
+207,Nirasha Herath,Female,46,Kurunegala,Northern,Driver
+208,Dulaj Abeywardena,Male,77,Kandy,Southern,Engineer
+209,Sahan Gunasekara,Male,54,Galle,Central,Doctor
+210,Hasini Kumari,Female,1,Colombo,North Western,Student
+211,Kavisha Senanayake,Female,89,Negombo,Southern,Doctor
+212,Nirasha Herath,Female,40,Kandy,Western,Engineer
+213,Tharushi Dissanayake,Female,70,Galle,Southern,Student
+214,Ravindu Tennakoon,Male,30,Ratnapura,Central,Doctor
+215,Nimal Perera,Male,55,Galle,Western,Driver
+216,Asela Kumara,Male,46,Ratnapura,Sabaragamuwa,Doctor
+217,Sahan Gunasekara,Male,12,Kandy,Central,Engineer
+218,Dinuka Herath,Male,76,Ratnapura,Southern,Teacher
+219,Ravindu Tennakoon,Male,31,Colombo,Central,Doctor
+220,Ravindu Tennakoon,Male,83,Kurunegala,Northern,Nurse
+221,Kavindi Fernando,Female,68,Jaffna,Central,Doctor
+222,Bimali Jayawardena,Female,33,Kandy,North Western,Nurse
+223,Pavithra Wijesinghe,Female,25,Kandy,Northern,Engineer
+224,Ishara Pathirana,Male,11,Colombo,Western,Farmer
+225,Dilani Jayasinghe,Female,82,Ratnapura,Sabaragamuwa,Engineer
+226,Ravindu Tennakoon,Male,58,Jaffna,Central,Student
+227,Ishara Pathirana,Male,30,Ratnapura,Central,Teacher
+228,Bimali Jayawardena,Female,15,Ratnapura,Southern,Student
+229,Dulani Tennakoon,Female,34,Colombo,North Western,Doctor
+230,Tharushi Dissanayake,Female,21,Colombo,Southern,Doctor
+231,Chathura Ekanayake,Male,53,Negombo,North Western,Doctor
+232,Kavisha Senanayake,Female,14,Negombo,North Western,Student
+233,Ishara Pathirana,Male,40,Ratnapura,Central,Driver
+234,Nirasha Herath,Female,26,Ratnapura,Sabaragamuwa,Teacher
+235,Asela Kumara,Male,33,Ratnapura,Central,Doctor
+236,Shanika Rathnayake,Female,24,Kurunegala,North Western,Nurse
+237,Hasini Kumari,Female,12,Kandy,Northern,Nurse
+238,Nimal Perera,Male,9,Negombo,Central,Driver
+239,Hasini Kumari,Female,47,Colombo,North Western,Driver
+240,Dilani Jayasinghe,Female,54,Kandy,Sabaragamuwa,Engineer
+241,Sandun Peris,Male,41,Kandy,North Western,Doctor
+242,Nadeesha Perera,Female,59,Kurunegala,North Western,Farmer
+243,Ruwan Jayasinghe,Male,16,Kandy,Southern,Student
+244,Sahan Gunasekara,Male,54,Kandy,Northern,Doctor
+245,Piumi Weerasinghe,Female,68,Kurunegala,Southern,Doctor
+246,Pradeep Senanayake,Male,28,Ratnapura,North Western,Farmer
+247,Dulaj Abeywardena,Male,30,Kurunegala,Sabaragamuwa,Nurse
+248,Sandun Peris,Male,74,Ratnapura,North Western,Teacher
+249,Nirasha Herath,Female,36,Jaffna,Northern,Student
+250,Dulaj Abeywardena,Male,54,Jaffna,Western,Engineer
+251,Anusha Gunasekara,Female,25,Galle,Southern,Doctor
+252,Shanika Rathnayake,Female,36,Jaffna,Central,Farmer
+253,Dinuka Herath,Male,33,Galle,Sabaragamuwa,Teacher
+254,Sachini Ekanayake,Female,86,Kurunegala,Southern,Engineer
+255,Nadeesha Perera,Female,86,Colombo,Northern,Doctor
+256,Dilani Jayasinghe,Female,22,Kurunegala,Northern,Driver
+257,Asela Kumara,Male,4,Colombo,Northern,Driver
+258,Chamara Bandara,Male,55,Negombo,Central,Engineer
+259,Iresha Pathirana,Female,68,Ratnapura,Western,Nurse
+260,Roshan Dissanayake,Male,5,Colombo,Western,Student
+261,Dilani Jayasinghe,Female,85,Galle,Southern,Farmer
+262,Iresha Pathirana,Female,38,Colombo,Southern,Farmer
+263,Roshan Dissanayake,Male,26,Kurunegala,Sabaragamuwa,Driver
+264,Dinuka Herath,Male,12,Kurunegala,Central,Nurse
+265,Hasini Kumari,Female,59,Ratnapura,Northern,Driver
+266,Anusha Gunasekara,Female,17,Ratnapura,North Western,Doctor
+267,Roshan Dissanayake,Male,36,Jaffna,Northern,Nurse
+268,Bimali Jayawardena,Female,21,Colombo,Northern,Driver
+269,Sandun Peris,Male,81,Kurunegala,North Western,Nurse
+270,Kavindi Fernando,Female,31,Colombo,Western,Student
+271,Nirasha Herath,Female,87,Kandy,Sabaragamuwa,Doctor
+272,Kamal Fernando,Male,39,Galle,Western,Engineer
+273,Tharushi Dissanayake,Female,36,Kandy,Central,Student
+274,Kavindi Fernando,Female,81,Colombo,Sabaragamuwa,Engineer
+275,Supun Wickramasinghe,Male,59,Colombo,Western,Teacher
+276,Niroshan Wijesinghe,Male,80,Kurunegala,Central,Doctor
+277,Nadeesha Perera,Female,33,Negombo,Sabaragamuwa,Teacher
+278,Nimal Perera,Male,79,Ratnapura,Northern,Doctor
+279,Tharindu Weerasinghe,Male,71,Jaffna,Southern,Teacher
+280,Sahan Gunasekara,Male,88,Kurunegala,North Western,Engineer
+281,Niroshan Wijesinghe,Male,56,Kurunegala,Sabaragamuwa,Farmer
+282,Chathura Ekanayake,Male,37,Ratnapura,Northern,Teacher
+283,Kavindi Fernando,Female,80,Kandy,Central,Engineer
+284,Chathurika Abeywardena,Female,66,Jaffna,Central,Teacher
+285,Chathura Ekanayake,Male,76,Jaffna,Southern,Driver
+286,Chathurika Abeywardena,Female,34,Kurunegala,Western,Farmer
+287,Sandun Peris,Male,20,Kandy,Central,Engineer
+288,Chamara Bandara,Male,51,Kandy,Southern,Doctor
+289,Sashini Peris,Female,20,Kurunegala,North Western,Engineer
+290,Kavindi Fernando,Female,16,Negombo,Sabaragamuwa,Teacher
+291,Piumi Weerasinghe,Female,66,Jaffna,North Western,Engineer
+292,Sachini Ekanayake,Female,35,Ratnapura,Sabaragamuwa,Engineer
+293,Sunil Silva,Male,52,Kandy,Western,Doctor
+294,Sunil Silva,Male,19,Galle,North Western,Driver
+295,Hasini Kumari,Female,47,Colombo,Southern,Nurse
+296,Piumi Weerasinghe,Female,61,Kurunegala,North Western,Driver
+297,Piumi Weerasinghe,Female,28,Colombo,North Western,Engineer
+298,Shanika Rathnayake,Female,40,Galle,Western,Doctor
+299,Piumi Weerasinghe,Female,60,Galle,Southern,Doctor
+300,Lakmal Jayawardena,Male,82,Ratnapura,Western,Teacher
+301,Tharushi Dissanayake,Female,69,Galle,Central,Engineer
+302,Tharindu Weerasinghe,Male,45,Jaffna,North Western,Engineer
+303,Thilini Wickramasinghe,Female,5,Kurunegala,Southern,Engineer
+304,Kasun Rathnayake,Male,88,Galle,Northern,Nurse
+305,Roshan Dissanayake,Male,11,Kurunegala,Western,Driver
+306,Ravindu Tennakoon,Male,35,Negombo,Sabaragamuwa,Student
+307,Sahan Gunasekara,Male,79,Ratnapura,Central,Teacher
+308,Chamara Bandara,Male,61,Negombo,Sabaragamuwa,Driver
+309,Iresha Pathirana,Female,25,Galle,North Western,Student
+310,Roshan Dissanayake,Male,26,Kurunegala,Western,Doctor
+311,Ishara Madushani,Female,74,Kandy,North Western,Student
+312,Asela Kumara,Male,82,Kurunegala,Sabaragamuwa,Teacher
+313,Roshan Dissanayake,Male,12,Colombo,Southern,Teacher
+314,Ravindu Tennakoon,Male,81,Colombo,Sabaragamuwa,Teacher
+315,Kasun Rathnayake,Male,8,Ratnapura,North Western,Farmer
+316,Supun Wickramasinghe,Male,10,Galle,Sabaragamuwa,Engineer
+317,Nirasha Herath,Female,30,Kurunegala,Southern,Doctor
+318,Tharindu Weerasinghe,Male,27,Galle,North Western,Farmer
+319,Sahan Gunasekara,Male,52,Ratnapura,Southern,Farmer
+320,Chathurika Abeywardena,Female,52,Jaffna,Sabaragamuwa,Driver
+321,Iresha Pathirana,Female,51,Kandy,Western,Driver
+322,Thilini Wickramasinghe,Female,71,Colombo,Northern,Engineer
+323,Chamara Bandara,Male,55,Ratnapura,Central,Driver
+324,Roshan Dissanayake,Male,61,Kurunegala,Western,Student
+325,Tharushi Dissanayake,Female,53,Galle,Northern,Doctor
+326,Anusha Gunasekara,Female,12,Kandy,North Western,Doctor
+327,Ruwan Jayasinghe,Male,79,Kurunegala,Central,Student
+328,Sandun Peris,Male,88,Kandy,Central,Engineer
+329,Shanika Rathnayake,Female,2,Kurunegala,Northern,Engineer
+330,Tharushi Dissanayake,Female,3,Galle,Central,Engineer
+331,Supun Wickramasinghe,Male,27,Colombo,Sabaragamuwa,Teacher
+332,Bimali Jayawardena,Female,2,Jaffna,North Western,Nurse
+333,Roshan Dissanayake,Male,34,Negombo,Southern,Farmer
+334,Kavisha Senanayake,Female,1,Galle,Western,Driver
+335,Tharushi Dissanayake,Female,71,Negombo,Southern,Engineer
+336,Sashini Peris,Female,69,Colombo,Western,Doctor
+337,Bimali Jayawardena,Female,62,Kandy,Western,Nurse
+338,Sahan Gunasekara,Male,68,Negombo,Western,Teacher
+339,Roshan Dissanayake,Male,41,Kandy,Western,Engineer
+340,Dulaj Abeywardena,Male,39,Kandy,Northern,Engineer
+341,Kasun Rathnayake,Male,46,Jaffna,Northern,Teacher
+342,Dulani Tennakoon,Female,62,Kurunegala,Central,Doctor
+343,Sandun Peris,Male,24,Kandy,Southern,Farmer
+344,Asela Kumara,Male,11,Colombo,Central,Teacher
+345,Kasun Rathnayake,Male,68,Colombo,Sabaragamuwa,Student
+346,Sunil Silva,Male,21,Ratnapura,Sabaragamuwa,Student
+347,Tharushi Dissanayake,Female,59,Kandy,Western,Engineer
+348,Chamara Bandara,Male,37,Ratnapura,Western,Driver
+349,Thilini Wickramasinghe,Female,3,Jaffna,Central,Farmer
+350,Tharushi Dissanayake,Female,3,Ratnapura,Sabaragamuwa,Nurse
+351,Nirasha Herath,Female,50,Negombo,Central,Engineer
+352,Kasun Rathnayake,Male,29,Kandy,Central,Student
+353,Iresha Pathirana,Female,68,Colombo,Southern,Student
+354,Nirasha Herath,Female,58,Ratnapura,Western,Engineer
+355,Kasun Rathnayake,Male,26,Kandy,Sabaragamuwa,Student
+356,Dulaj Abeywardena,Male,15,Kandy,North Western,Doctor
+357,Kamal Fernando,Male,70,Kurunegala,Northern,Engineer
+358,Sachini Ekanayake,Female,5,Galle,North Western,Doctor
+359,Chathurika Abeywardena,Female,9,Ratnapura,North Western,Driver
+360,Anusha Gunasekara,Female,14,Negombo,Sabaragamuwa,Engineer
+361,Kasun Rathnayake,Male,5,Negombo,North Western,Farmer
+362,Roshan Dissanayake,Male,80,Colombo,Southern,Student
+363,Ruwan Jayasinghe,Male,74,Ratnapura,Sabaragamuwa,Engineer
+364,Tharindu Weerasinghe,Male,42,Kurunegala,Central,Farmer
+365,Chamara Bandara,Male,85,Kurunegala,Western,Engineer
+366,Kavisha Senanayake,Female,43,Ratnapura,Sabaragamuwa,Nurse
+367,Iresha Pathirana,Female,34,Jaffna,Northern,Student
+368,Ishara Pathirana,Male,7,Kandy,Northern,Nurse
+369,Sashini Peris,Female,59,Jaffna,Western,Driver
+370,Chathurika Abeywardena,Female,9,Ratnapura,Sabaragamuwa,Teacher
+371,Sachini Ekanayake,Female,56,Colombo,Northern,Engineer
+372,Ravindu Tennakoon,Male,80,Jaffna,Southern,Student
+373,Roshan Dissanayake,Male,36,Kurunegala,Western,Student
+374,Ravindu Tennakoon,Male,67,Ratnapura,Sabaragamuwa,Student
+375,Dinuka Herath,Male,18,Galle,North Western,Nurse
+376,Lakmal Jayawardena,Male,23,Kandy,Northern,Student
+377,Dulani Tennakoon,Female,67,Kurunegala,Western,Doctor
+378,Hasini Kumari,Female,16,Ratnapura,Western,Doctor
+379,Chamara Bandara,Male,41,Galle,Western,Doctor
+380,Thilini Wickramasinghe,Female,71,Jaffna,Western,Student
+381,Pavithra Wijesinghe,Female,64,Colombo,Northern,Teacher
+382,Kamal Fernando,Male,88,Jaffna,Northern,Nurse
+383,Sachini Ekanayake,Female,64,Colombo,Northern,Teacher
+384,Pavithra Wijesinghe,Female,9,Kandy,Southern,Farmer
+385,Chathurika Abeywardena,Female,60,Kandy,Central,Engineer
+386,Sandun Peris,Male,37,Colombo,Western,Driver
+387,Niroshan Wijesinghe,Male,60,Negombo,Central,Student
+388,Iresha Pathirana,Female,35,Ratnapura,Southern,Doctor
+389,Rashmi Bandara,Female,29,Kandy,North Western,Farmer
+390,Ishara Pathirana,Male,5,Negombo,Northern,Farmer
+391,Supun Wickramasinghe,Male,44,Kurunegala,Southern,Nurse
+392,Niroshan Wijesinghe,Male,69,Galle,Central,Nurse
+393,Nimal Perera,Male,89,Jaffna,North Western,Student
+394,Nadeesha Perera,Female,44,Negombo,Sabaragamuwa,Student
+395,Kasun Rathnayake,Male,31,Kurunegala,Southern,Engineer
+396,Tharushi Dissanayake,Female,4,Ratnapura,Sabaragamuwa,Teacher
+397,Sandun Peris,Male,45,Jaffna,Central,Nurse
+398,Sashini Peris,Female,85,Negombo,Sabaragamuwa,Student
+399,Dulaj Abeywardena,Male,36,Galle,North Western,Nurse
+400,Kamal Fernando,Male,4,Negombo,Sabaragamuwa,Student
+401,Ishara Madushani,Female,84,Ratnapura,Northern,Engineer
+402,Kamal Fernando,Male,2,Kurunegala,Sabaragamuwa,Farmer
+403,Chamara Bandara,Male,38,Negombo,North Western,Nurse
+404,Shanika Rathnayake,Female,39,Colombo,Central,Teacher
+405,Piumi Weerasinghe,Female,15,Kurunegala,North Western,Farmer
+406,Iresha Pathirana,Female,74,Kandy,Northern,Teacher
+407,Lakmal Jayawardena,Male,3,Galle,North Western,Driver
+408,Dinuka Herath,Male,73,Kurunegala,Western,Student
+409,Tharushi Dissanayake,Female,76,Kandy,Southern,Engineer
+410,Iresha Pathirana,Female,28,Colombo,Sabaragamuwa,Doctor
+411,Tharushi Dissanayake,Female,2,Kandy,Western,Farmer
+412,Niroshan Wijesinghe,Male,58,Kurunegala,Sabaragamuwa,Student
+413,Sandun Peris,Male,39,Ratnapura,Western,Driver
+414,Piumi Weerasinghe,Female,24,Colombo,Western,Engineer
+415,Pavithra Wijesinghe,Female,7,Galle,Central,Farmer
+416,Asela Kumara,Male,62,Negombo,Sabaragamuwa,Engineer
+417,Roshan Dissanayake,Male,61,Galle,Sabaragamuwa,Doctor
+418,Kavisha Senanayake,Female,49,Colombo,Northern,Teacher
+419,Lakmal Jayawardena,Male,17,Galle,Southern,Teacher
+420,Sunil Silva,Male,2,Galle,North Western,Engineer
+421,Pavithra Wijesinghe,Female,65,Colombo,Sabaragamuwa,Farmer
+422,Sahan Gunasekara,Male,3,Ratnapura,Western,Teacher
+423,Nimal Perera,Male,60,Jaffna,Sabaragamuwa,Driver
+424,Asela Kumara,Male,53,Colombo,Sabaragamuwa,Farmer
+425,Sahan Gunasekara,Male,84,Jaffna,Southern,Driver
+426,Chathura Ekanayake,Male,71,Jaffna,Sabaragamuwa,Nurse
+427,Bimali Jayawardena,Female,24,Negombo,Northern,Student
+428,Chathurika Abeywardena,Female,79,Jaffna,Southern,Driver
+429,Kavisha Senanayake,Female,52,Colombo,Northern,Teacher
+430,Ishara Madushani,Female,89,Galle,Western,Driver
+431,Thilini Wickramasinghe,Female,6,Kurunegala,Western,Teacher
+432,Hasini Kumari,Female,77,Ratnapura,Southern,Teacher
+433,Sahan Gunasekara,Male,25,Kurunegala,Southern,Doctor
+434,Bimali Jayawardena,Female,23,Kandy,North Western,Farmer
+435,Shanika Rathnayake,Female,54,Kurunegala,Northern,Nurse
+436,Sashini Peris,Female,27,Kurunegala,North Western,Teacher
+437,Dinuka Herath,Male,47,Negombo,Central,Doctor
+438,Dulaj Abeywardena,Male,57,Negombo,Central,Engineer
+439,Shanika Rathnayake,Female,81,Galle,Western,Doctor
+440,Ravindu Tennakoon,Male,29,Jaffna,Northern,Farmer
+441,Dulani Tennakoon,Female,29,Jaffna,Southern,Nurse
+442,Ishara Madushani,Female,18,Kandy,Western,Teacher
+443,Kavindi Fernando,Female,61,Jaffna,North Western,Driver
+444,Kavisha Senanayake,Female,47,Galle,Central,Nurse
+445,Asela Kumara,Male,47,Kurunegala,Sabaragamuwa,Teacher
+446,Kavindi Fernando,Female,20,Negombo,Sabaragamuwa,Engineer
+447,Kasun Rathnayake,Male,22,Jaffna,North Western,Farmer
+448,Chathura Ekanayake,Male,60,Kandy,North Western,Student
+449,Roshan Dissanayake,Male,24,Colombo,North Western,Driver
+450,Hasini Kumari,Female,30,Kurunegala,Central,Engineer
+451,Chamara Bandara,Male,49,Colombo,Sabaragamuwa,Engineer
+452,Chathurika Abeywardena,Female,27,Negombo,Western,Driver
+453,Thilini Wickramasinghe,Female,40,Colombo,Southern,Farmer
+454,Chamara Bandara,Male,59,Ratnapura,Sabaragamuwa,Teacher
+455,Chathura Ekanayake,Male,23,Kurunegala,Southern,Teacher
+456,Chamara Bandara,Male,74,Negombo,Western,Student
+457,Ruwan Jayasinghe,Male,44,Ratnapura,Northern,Teacher
+458,Pradeep Senanayake,Male,84,Kurunegala,Sabaragamuwa,Teacher
+459,Kamal Fernando,Male,79,Ratnapura,Sabaragamuwa,Nurse
+460,Anusha Gunasekara,Female,1,Galle,Southern,Doctor
+461,Chathurika Abeywardena,Female,30,Colombo,North Western,Driver
+462,Tharushi Dissanayake,Female,47,Kandy,Northern,Engineer
+463,Pavithra Wijesinghe,Female,12,Galle,Southern,Farmer
+464,Asela Kumara,Male,7,Colombo,Western,Teacher
+465,Tharindu Weerasinghe,Male,69,Galle,Central,Farmer
+466,Thilini Wickramasinghe,Female,44,Negombo,Sabaragamuwa,Driver
+467,Ishara Pathirana,Male,51,Ratnapura,Southern,Farmer
+468,Sachini Ekanayake,Female,20,Galle,Western,Farmer
+469,Nadeesha Perera,Female,70,Kandy,Western,Teacher
+470,Lakmal Jayawardena,Male,37,Ratnapura,North Western,Nurse
+471,Lakmal Jayawardena,Male,28,Kurunegala,Western,Driver
+472,Nirasha Herath,Female,72,Negombo,Sabaragamuwa,Driver
+473,Pavithra Wijesinghe,Female,78,Negombo,Southern,Farmer
+474,Hasini Kumari,Female,10,Jaffna,Southern,Engineer
+475,Tharushi Dissanayake,Female,87,Kurunegala,Southern,Nurse
+476,Tharindu Weerasinghe,Male,27,Colombo,Sabaragamuwa,Teacher
+477,Pradeep Senanayake,Male,50,Kurunegala,North Western,Farmer
+478,Ravindu Tennakoon,Male,36,Kurunegala,Central,Farmer
+479,Nimal Perera,Male,24,Negombo,Western,Student
+480,Nimal Perera,Male,43,Jaffna,Sabaragamuwa,Teacher
+481,Chathura Ekanayake,Male,78,Kurunegala,Western,Teacher
+482,Chathura Ekanayake,Male,23,Ratnapura,Western,Doctor
+483,Niroshan Wijesinghe,Male,83,Negombo,North Western,Student
+484,Niroshan Wijesinghe,Male,33,Kurunegala,North Western,Teacher
+485,Pavithra Wijesinghe,Female,17,Negombo,Central,Student
+486,Roshan Dissanayake,Male,31,Kandy,Southern,Engineer
+487,Kavindi Fernando,Female,63,Negombo,Southern,Doctor
+488,Anusha Gunasekara,Female,67,Ratnapura,Sabaragamuwa,Teacher
+489,Kasun Rathnayake,Male,61,Kurunegala,North Western,Driver
+490,Ruwan Jayasinghe,Male,80,Kandy,Northern,Driver
+491,Kavisha Senanayake,Female,62,Jaffna,Southern,Engineer
+492,Asela Kumara,Male,15,Jaffna,Southern,Engineer
+493,Ruwan Jayasinghe,Male,60,Colombo,Central,Driver
+494,Dulaj Abeywardena,Male,87,Jaffna,Southern,Nurse
+495,Anusha Gunasekara,Female,37,Colombo,Sabaragamuwa,Engineer
+496,Sahan Gunasekara,Male,1,Kurunegala,North Western,Driver
+497,Kavisha Senanayake,Female,50,Ratnapura,Western,Teacher
+498,Rashmi Bandara,Female,48,Kandy,Central,Driver
+499,Anusha Gunasekara,Female,28,Ratnapura,Northern,Student
+500,Anusha Gunasekara,Female,8,Kandy,Southern,Student

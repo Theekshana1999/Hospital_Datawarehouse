@@ -1,0 +1,62 @@
+[
+  {
+    "d_id": 1,
+    "d_name": "Department_1",
+    "d_floor": 1,
+    "d_contact": "+94780203246"
+  },
+  {
+    "d_id": 2,
+    "d_name": "Department_2",
+    "d_floor": 3,
+    "d_contact": "+94784592065"
+  },
+  {
+    "d_id": 3,
+    "d_name": "Department_3",
+    "d_floor": 3,
+    "d_contact": "+94738626738"
+  },
+  {
+    "d_id": 4,
+    "d_name": "Department_4",
+    "d_floor": 4,
+    "d_contact": "+94775147832"
+  },
+  {
+    "d_id": 5,
+    "d_name": "Department_5",
+    "d_floor": 3,
+    "d_contact": "+94713426009"
+  },
+  {
+    "d_id": 6,
+    "d_name": "Department_6",
+    "d_floor": 4,
+    "d_contact": "+94702233118"
+  },
+  {
+    "d_id": 7,
+    "d_name": "Department_7",
+    "d_floor": 5,
+    "d_contact": "+94759641489"
+  },
+  {
+    "d_id": 8,
+    "d_name": "Department_8",
+    "d_floor": 3,
+    "d_contact": "+94742212410"
+  },
+  {
+    "d_id": 9,
+    "d_name": "Department_9",
+    "d_floor": 4,
+    "d_contact": "+94708239152"
+  },
+  {
+    "d_id": 10,
+    "d_name": "Department_10",
+    "d_floor": 2,
+    "d_contact": "+94777681839"
+  }
+]

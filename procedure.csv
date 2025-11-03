@@ -1,0 +1,201 @@
+procedure_id,procedure_name,procedure_type,standard_cost
+1,Procedure_1,Scan,9373
+2,Procedure_2,Therapy,2721
+3,Procedure_3,Scan,13677
+4,Procedure_4,Therapy,15814
+5,Procedure_5,Surgery,19187
+6,Procedure_6,Scan,11857
+7,Procedure_7,Lab Test,12156
+8,Procedure_8,Scan,3830
+9,Procedure_9,Scan,16689
+10,Procedure_10,Therapy,11677
+11,Procedure_11,Therapy,1196
+12,Procedure_12,Therapy,15188
+13,Procedure_13,Lab Test,13826
+14,Procedure_14,Surgery,3345
+15,Procedure_15,Scan,17842
+16,Procedure_16,Scan,3738
+17,Procedure_17,Lab Test,17998
+18,Procedure_18,Lab Test,1019
+19,Procedure_19,Scan,5152
+20,Procedure_20,Therapy,17763
+21,Procedure_21,Scan,19935
+22,Procedure_22,Lab Test,17594
+23,Procedure_23,Therapy,4998
+24,Procedure_24,Surgery,19665
+25,Procedure_25,Scan,8676
+26,Procedure_26,Scan,7863
+27,Procedure_27,Surgery,5271
+28,Procedure_28,Surgery,6322
+29,Procedure_29,Lab Test,5345
+30,Procedure_30,Surgery,15488
+31,Procedure_31,Scan,12834
+32,Procedure_32,Scan,11860
+33,Procedure_33,Scan,13834
+34,Procedure_34,Surgery,12828
+35,Procedure_35,Surgery,7289
+36,Procedure_36,Surgery,5331
+37,Procedure_37,Therapy,18298
+38,Procedure_38,Therapy,16059
+39,Procedure_39,Lab Test,3721
+40,Procedure_40,Scan,10464
+41,Procedure_41,Surgery,13122
+42,Procedure_42,Surgery,10441
+43,Procedure_43,Scan,10447
+44,Procedure_44,Lab Test,9256
+45,Procedure_45,Scan,3982
+46,Procedure_46,Therapy,11816
+47,Procedure_47,Therapy,6618
+48,Procedure_48,Lab Test,15656
+49,Procedure_49,Surgery,3816
+50,Procedure_50,Surgery,6024
+51,Procedure_51,Scan,19051
+52,Procedure_52,Surgery,11359
+53,Procedure_53,Scan,4483
+54,Procedure_54,Lab Test,2499
+55,Procedure_55,Surgery,18360
+56,Procedure_56,Surgery,2607
+57,Procedure_57,Surgery,6956
+58,Procedure_58,Scan,4926
+59,Procedure_59,Surgery,9433
+60,Procedure_60,Therapy,19876
+61,Procedure_61,Therapy,9582
+62,Procedure_62,Surgery,16636
+63,Procedure_63,Therapy,17985
+64,Procedure_64,Surgery,9661
+65,Procedure_65,Surgery,6415
+66,Procedure_66,Lab Test,3772
+67,Procedure_67,Therapy,9000
+68,Procedure_68,Surgery,2235
+69,Procedure_69,Scan,2951
+70,Procedure_70,Lab Test,6178
+71,Procedure_71,Therapy,17859
+72,Procedure_72,Scan,6490
+73,Procedure_73,Scan,13745
+74,Procedure_74,Scan,11115
+75,Procedure_75,Scan,6095
+76,Procedure_76,Lab Test,14450
+77,Procedure_77,Scan,19302
+78,Procedure_78,Lab Test,18954
+79,Procedure_79,Scan,2109
+80,Procedure_80,Lab Test,3733
+81,Procedure_81,Lab Test,9755
+82,Procedure_82,Lab Test,12304
+83,Procedure_83,Lab Test,4354
+84,Procedure_84,Lab Test,9935
+85,Procedure_85,Therapy,17630
+86,Procedure_86,Surgery,9913
+87,Procedure_87,Surgery,5340
+88,Procedure_88,Therapy,15082
+89,Procedure_89,Lab Test,10176
+90,Procedure_90,Lab Test,15325
+91,Procedure_91,Surgery,11541
+92,Procedure_92,Lab Test,12364
+93,Procedure_93,Therapy,14116
+94,Procedure_94,Scan,12250
+95,Procedure_95,Lab Test,11391
+96,Procedure_96,Lab Test,16571
+97,Procedure_97,Surgery,3513
+98,Procedure_98,Scan,4467
+99,Procedure_99,Scan,11016
+100,Procedure_100,Surgery,9906
+101,Procedure_101,Lab Test,18367
+102,Procedure_102,Surgery,3259
+103,Procedure_103,Surgery,9714
+104,Procedure_104,Scan,4667
+105,Procedure_105,Surgery,10258
+106,Procedure_106,Scan,12816
+107,Procedure_107,Lab Test,2032
+108,Procedure_108,Scan,13681
+109,Procedure_109,Lab Test,9153
+110,Procedure_110,Scan,8237
+111,Procedure_111,Scan,3272
+112,Procedure_112,Therapy,1644
+113,Procedure_113,Surgery,14644
+114,Procedure_114,Scan,9098
+115,Procedure_115,Scan,3472
+116,Procedure_116,Lab Test,7613
+117,Procedure_117,Lab Test,14670
+118,Procedure_118,Therapy,1780
+119,Procedure_119,Therapy,14968
+120,Procedure_120,Therapy,14859
+121,Procedure_121,Lab Test,6207
+122,Procedure_122,Surgery,3795
+123,Procedure_123,Surgery,16179
+124,Procedure_124,Scan,5538
+125,Procedure_125,Surgery,11506
+126,Procedure_126,Therapy,6368
+127,Procedure_127,Surgery,1644
+128,Procedure_128,Therapy,15938
+129,Procedure_129,Lab Test,8078
+130,Procedure_130,Surgery,17732
+131,Procedure_131,Surgery,14225
+132,Procedure_132,Surgery,7978
+133,Procedure_133,Therapy,18806
+134,Procedure_134,Scan,5348
+135,Procedure_135,Lab Test,6043
+136,Procedure_136,Surgery,12206
+137,Procedure_137,Therapy,4713
+138,Procedure_138,Therapy,19547
+139,Procedure_139,Surgery,18475
+140,Procedure_140,Lab Test,8861
+141,Procedure_141,Surgery,5580
+142,Procedure_142,Therapy,16065
+143,Procedure_143,Surgery,15695
+144,Procedure_144,Surgery,10682
+145,Procedure_145,Therapy,18356
+146,Procedure_146,Therapy,17986
+147,Procedure_147,Therapy,6911
+148,Procedure_148,Scan,10275
+149,Procedure_149,Scan,8430
+150,Procedure_150,Scan,17826
+151,Procedure_151,Lab Test,19964
+152,Procedure_152,Lab Test,2023
+153,Procedure_153,Therapy,19543
+154,Procedure_154,Lab Test,17958
+155,Procedure_155,Therapy,9347
+156,Procedure_156,Surgery,3873
+157,Procedure_157,Therapy,3778
+158,Procedure_158,Scan,15253
+159,Procedure_159,Surgery,8409
+160,Procedure_160,Surgery,11511
+161,Procedure_161,Lab Test,4758
+162,Procedure_162,Surgery,12961
+163,Procedure_163,Therapy,13727
+164,Procedure_164,Scan,5297
+165,Procedure_165,Therapy,5128
+166,Procedure_166,Surgery,18156
+167,Procedure_167,Therapy,15030
+168,Procedure_168,Scan,18366
+169,Procedure_169,Lab Test,3384
+170,Procedure_170,Surgery,9271
+171,Procedure_171,Surgery,15320
+172,Procedure_172,Therapy,6768
+173,Procedure_173,Lab Test,4784
+174,Procedure_174,Scan,16492
+175,Procedure_175,Scan,4291
+176,Procedure_176,Surgery,16261
+177,Procedure_177,Lab Test,2327
+178,Procedure_178,Scan,19013
+179,Procedure_179,Lab Test,7938
+180,Procedure_180,Surgery,10176
+181,Procedure_181,Lab Test,15209
+182,Procedure_182,Scan,8327
+183,Procedure_183,Scan,7894
+184,Procedure_184,Scan,2858
+185,Procedure_185,Therapy,6131
+186,Procedure_186,Surgery,1096
+187,Procedure_187,Surgery,8798
+188,Procedure_188,Therapy,9798
+189,Procedure_189,Surgery,14157
+190,Procedure_190,Surgery,5287
+191,Procedure_191,Therapy,14541
+192,Procedure_192,Scan,14086
+193,Procedure_193,Scan,14757
+194,Procedure_194,Lab Test,18214
+195,Procedure_195,Scan,9671
+196,Procedure_196,Surgery,7618
+197,Procedure_197,Surgery,2460
+198,Procedure_198,Lab Test,7833
+199,Procedure_199,Scan,1435
+200,Procedure_200,Scan,5241
